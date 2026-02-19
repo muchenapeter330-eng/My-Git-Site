@@ -8,7 +8,7 @@ body {
 } 
 
 
-header{
+header {
   backgroung-color: #4CAF50;
   color: white;
   padding: 20px;
@@ -16,7 +16,7 @@ header{
 }
 
 
-header h1 [
+header h1 {
   margin: 0;
 }
 
@@ -36,7 +36,7 @@ nav a:hover {
 main {
   padding: 20px;
   max-width: 800px;
-  margin; 0auto;
+  margin; 0 auto;
 }
 
 
